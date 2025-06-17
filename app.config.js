@@ -29,7 +29,6 @@ export default {
       favicon: "./assets/favicon.png"
     },
     plugins: [
-      "@react-navigation/native",
       "expo-secure-store"
     ]
   }
